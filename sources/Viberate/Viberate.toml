@@ -4,8 +4,8 @@ dependencies = ["Ethereum"]
 icon = "viberate"
 
 [token]
-name = "viberate token"
-symbol = "Vibe"
+name = "Viberate"
+symbol = "VIB"
 
 [consensus]
 consensus_type = "ERC20 Token"
@@ -38,7 +38,7 @@ tags = ["Main"]
 [[links]]
 type = "paper"
 name = "Viberate Whitepaper"
-url = "https://www.viberate.io/pdf/Viberate.io_Whitepaper.pdf"
+url = "https://www.viberate.io/Viberate_ICO_Whitepaper.pdf"
 tags = ["Main", "Science"]
 
 [[links]]
@@ -65,7 +65,7 @@ tags = ["News"]
 [[links]]
 type = "custom"
 name = "Viberate Telegram"
-url = "https://t.me/joinchat/F-zen"
+url = "https://t.me/ViberateOfficial"
 icon = "telegram.png"
 tags = ["News"]
 
